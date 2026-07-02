@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "title": "Gaming PC Build",
+    "description": "Professional hardware assembly, cable management, and thermal optimization.",
+    "price": 99.99,
+    "icon_name": "Cpu",
+    "type": "build"
+  },
+  {
+    "id": 2,
+    "title": "Computer Repair & Diagnostics",
+    "description": "Troubleshoot hardware failures, blue screens, and system crashes.",
+    "price": 49.99,
+    "icon_name": "Wrench",
+    "type": "repair"
+  },
+  {
+    "id": 3,
+    "title": "Data Recovery & Backup",
+    "description": "Retrieve lost files from corrupted drives, SSDs, or deleted partitions.",
+    "price": 149.99,
+    "icon_name": "Database",
+    "type": "repair"
+  },
+  {
+    "id": 4,
+    "title": "Annual Maintenance Contract",
+    "description": "Routine cleaning, hardware tests, OS optimization, and antivirus updates.",
+    "price": 199.99,
+    "icon_name": "ShieldCheck",
+    "type": "other"
+  }
+]

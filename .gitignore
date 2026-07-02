@@ -1,0 +1,23 @@
+# Dependency folders
+node_modules/
+
+# Local configuration
+.env
+.env.local
+
+# Build files
+dist/
+build/
+
+# Local transactional database data
+backend/data/orders.json
+backend/data/order_items.json
+backend/data/reviews.json
+
+# IDE settings
+.vscode/
+.idea/
+
+# OS files
+Thumbs.db
+.DS_Store

@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Gaming PCs",
+    "slug": "gaming-pcs",
+    "description": "Ultimate gaming desktop systems"
+  },
+  {
+    "id": 2,
+    "name": "Laptops",
+    "slug": "laptops",
+    "description": "Premium business and gaming laptops"
+  },
+  {
+    "id": 3,
+    "name": "Graphics Cards",
+    "slug": "graphics-cards",
+    "description": "NVIDIA GeForce & AMD Radeon GPUs"
+  },
+  {
+    "id": 4,
+    "name": "Processors",
+    "slug": "processors",
+    "description": "Intel Core & AMD Ryzen CPUs"
+  },
+  {
+    "id": 5,
+    "name": "Monitors",
+    "slug": "monitors",
+    "description": "High-refresh rate gaming monitors"
+  },
+  {
+    "id": 6,
+    "name": "RAM",
+    "slug": "ram",
+    "description": "DDR4 & DDR5 high speed memory"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "username": "admin",
+    "email": "admin@store.com",
+    "password": "$2a$10$wK1Gv5.sYnE7Ghyf99Lq1O4v0nOswP6G0Qz/lW9y8Tj1zP5j6nN6y",
+    "role": "admin",
+    "created_at": "2026-07-02T07:04:37.036Z"
+  },
+  {
+    "id": 2,
+    "username": "john_doe",
+    "email": "john@gmail.com",
+    "password": "$2a$10$tZ26Y1nreN4i.B8H3v8hye092Fm3p1SgR7jN5m5i2g9K2f5hN5n1y",
+    "role": "user",
+    "created_at": "2026-07-02T07:04:37.038Z"
+  }
+]

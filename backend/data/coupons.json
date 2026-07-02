@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "code": "GAMER2026",
+    "discount_type": "percentage",
+    "discount_value": 10,
+    "active": 1,
+    "expiry_date": "2027-12-31"
+  },
+  {
+    "id": 2,
+    "code": "FREESHIP",
+    "discount_type": "fixed",
+    "discount_value": 20,
+    "active": 1,
+    "expiry_date": "2027-12-31"
+  }
+]
